@@ -10,6 +10,9 @@ This is a try (more like a first version) of creating an antivirus program - AKS
 - Quarantine files
 - Update the virus database like other professional antivirus programs.
 
+### Screenshot:
+https://user-images.githubusercontent.com/67059269/85003914-82fa8400-b174-11ea-886f-eceb965aed75.png
+
 #### Technical Features:
 - Written in Python
 - Multi-Threading
