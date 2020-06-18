@@ -13,8 +13,9 @@ This is a try (more like a first version) of creating an antivirus program - AKS
 #### Technical Features:
 - Written in Python
 - Multi-Threading
+- File Handling
 - Exception Handling
 - GUI
 
-Note- Some parts of this program are slow and will be updated soon in the next version.
+Note- Some parts of this program are slow and will soon be updated in the next version.
 
